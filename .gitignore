@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+chave-serper.txt
+dados/
+runtime/
+*backup*.json
+*.csv
+*.log
+.DS_Store
+Thumbs.db

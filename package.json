@@ -1,0 +1,8 @@
+{
+  "name": "prospecta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel local de prospecção comercial com Google Maps, contatos públicos e CRM.",
+  "scripts": {"start": "node iniciar-prospecta.js", "test": "node --check iniciar-prospecta.js && node tests/smoke.cjs"},
+  "engines": {"node": ">=22"}
+}
